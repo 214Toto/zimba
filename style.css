@@ -505,7 +505,7 @@ footer {
     grid-template-columns: 1fr;
     gap: 1px;
     text-align: center;
-    margin-top: -2rem;
+    margin-top: 5rem;
   }
 
   header {
